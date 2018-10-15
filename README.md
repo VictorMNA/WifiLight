@@ -1,6 +1,9 @@
 # WifiLight
 A led ilumination system controlled via web.
 
+You need to modify the file WifiLightConfig.h with the data of your wifi.
+
+
 Construction (in spanish):
 https://zaragozamakerspace.com/index.php/projects/iluminacion-led-controlable-via-web/
 
